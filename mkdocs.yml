@@ -1,0 +1,10 @@
+site_name: napari-em-reader
+site_description: A napari plugin to read .em files
+site_author: Lorenzo Gaifas
+
+theme: readthedocs
+
+repo_url: https://github.com/brisvag/napari-em-reader
+
+pages:
+- Home: index.md
